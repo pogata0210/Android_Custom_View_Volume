@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VolumeControlView"></declare-styleable>
+    <declare-styleable name="VolumeControlView_outerCircleColor"></declare-styleable>
+    <declare-styleable name="VolumeControlView_innerCircleColor"></declare-styleable>
+    <declare-styleable name="VolumeControlView_knobColor"></declare-styleable>
+</resources>
